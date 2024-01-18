@@ -1,0 +1,1 @@
+Target .Net framework: 4.7.2
